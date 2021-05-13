@@ -9,11 +9,8 @@
   <code><a href="https://www.instagram.com/jererami21/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
-<div align="center">
-<h3><iframe src="https://giphy.com/embed/wpoLqr5FT1sY0" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-computer-wpoLqr5FT1sY0">via GIPHY</a></p> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK </h3>
-</div>
 
-
+<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="30">
 
 
 - 👀 I’m interested in Web Development.
