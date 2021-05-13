@@ -22,18 +22,18 @@
   <li>🌱 I’m studying Computer Science Engineering at ESPOL 🐢.</li>
   <li>💻 I'm currently learning Web Development Technologies like:
    <ul>
-    <li>Html</li>
-    <li>Css</li>
-    <li>Javascript</li>
+    <li>Html <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></li>
+    <li>Css <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></li>
+    <li>Javascript <img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></li>
     <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /></li>
     <li>React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></li>
    </ul>
    </li>
   <li>🖱️ I have also medium knowledge on:
    <ul>
-    <li>Mysql</li>
+    <li>Mysql <img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></li>
     <li>MongoDB</li>
-    <li>Java</li> 
+    <li>Java <img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></li> 
    </ul>
   </li>
  </ul>
