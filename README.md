@@ -25,16 +25,15 @@
     <li>Html</li>
     <li>Css</li>
     <li>Javascript</li>
-    <li>Angular</li>
-    <li>React</li>
+    <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /></li>
+    <li>React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></li>
    </ul>
    </li>
-  <li>💻 I'm currently learning Web Development Technologies like:
+  <li>🖱️ I have also medium knowledge on:
    <ul>
     <li>Mysql</li>
     <li>MongoDB</li>
-    <li>Java</li>
-    
+    <li>Java</li> 
    </ul>
   </li>
  </ul>
