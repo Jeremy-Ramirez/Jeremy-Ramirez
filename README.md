@@ -10,7 +10,7 @@
 </h5>
 
 
-<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="150">
 
 
 - 👀 I’m interested in Web Development.
