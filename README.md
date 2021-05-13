@@ -29,31 +29,20 @@
     <li>React</li>
    </ul>
    </li>
-  <li>💻 I'm currently learning Web Development Technologies like:</li>
+  <li>💻 I'm currently learning Web Development Technologies like:
+   <ul>
+    <li>Mysql</li>
+    <li>MongoDB</li>
+    <li>Java</li>
+    
+   </ul>
+  </li>
  </ul>
  
- <div>
-  
-  
-  
-  
-
-
-- 💻 I'm currently learning Web Development Technologies like:
-     - Html 
-     - Css
-     - Javascript
-     - Angular
-     - React
- - I have also medium knowledge on:
-     -Mysql
-     -MongoDB
-     -Java
-     
-     
  </div>
+  
+     
  
-</div>
 
 
 
