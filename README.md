@@ -1,4 +1,4 @@
-## Hi, I’m Jeremy 👋
+## Hi, I’m Jeremy 💻 👋
 
 
 
@@ -6,5 +6,5 @@
 
 
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Computer Science Engineering.
+- 🌱 I’m currently learning Computer Science Engineering at ESPOL 🐢.
 
