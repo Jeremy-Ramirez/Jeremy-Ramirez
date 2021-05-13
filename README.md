@@ -15,7 +15,27 @@
 <h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Front-end Developer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
 </div>
 
+<div align="left">
+ <h2>About Me</h2>
+ <div>
 - 👀 I’m interested in Web Development.
 - 🌱 I’m studying Computer Science Engineering at ESPOL 🐢.
-- 💻 I'm currently learning Web Development Technologies like 
+- 💻 I'm currently learning Web Development Technologies like:
+     - Html 
+     - Css
+     - Javascript
+     - Angular
+     - React
+ - I have also medium knowledge on:
+     -Mysql
+     -MongoDB
+     -Java
+     
+     
+ </div>
+ 
+</div>
+
+
+
 
