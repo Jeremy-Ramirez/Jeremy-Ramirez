@@ -10,8 +10,10 @@
 </h5>
 
 
-<img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="150">
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">  Jeremy Ramirez| 💻 Full Stack Developer | Guayaquil,EC 🇪🇨  <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
+</div>
 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m studying Computer Science Engineering at ESPOL 🐢.
