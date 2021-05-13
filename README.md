@@ -32,7 +32,7 @@
   <li>🖱️ I have also medium knowledge on:
    <ul>
     <li>Mysql <img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></li>
-    <li>MongoDB</li>
+    <li>MongoDB <img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></li>
     <li>Java <img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></li> 
    </ul>
   </li>
