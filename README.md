@@ -17,9 +17,19 @@
 
 <div align="left">
  <h2>About Me</h2>
+ <ul>
+  <li>👀 I’m interested in Web Development.</li>
+  <li>🌱 I’m studying Computer Science Engineering at ESPOL 🐢.</li>
+  <li>💻 I'm currently learning Web Development Technologies like</li>
+ </ul>
+ 
  <div>
-- 👀 I’m interested in Web Development.
-- 🌱 I’m studying Computer Science Engineering at ESPOL 🐢.
+  
+  
+  
+  
+
+
 - 💻 I'm currently learning Web Development Technologies like:
      - Html 
      - Css
