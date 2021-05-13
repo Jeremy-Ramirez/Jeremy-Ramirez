@@ -20,7 +20,16 @@
  <ul>
   <li>👀 I’m interested in Web Development.</li>
   <li>🌱 I’m studying Computer Science Engineering at ESPOL 🐢.</li>
-  <li>💻 I'm currently learning Web Development Technologies like</li>
+  <li>💻 I'm currently learning Web Development Technologies like:
+   <ul>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Javascript</li>
+    <li>Angular</li>
+    <li>React</li>
+   </ul>
+   </li>
+  <li>💻 I'm currently learning Web Development Technologies like:</li>
  </ul>
  
  <div>
