@@ -36,7 +36,18 @@
     <li>Java <img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></li> 
    </ul>
   </li>
+  
+  <li>Languages: 
+     <ul>
+    <li>Spanish : Native</li>
+    <li>English: B2 Level</li>
+    <li>Italian: Medium</li> 
+   </ul>
+</li>
+   
  </ul>
+ 
+
  
  </div>
   
