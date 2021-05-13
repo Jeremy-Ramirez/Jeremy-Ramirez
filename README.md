@@ -5,14 +5,14 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/jeremy-ramirez-galeotti-0611ba20b/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code><span><span><span>
+    <a href="https://www.linkedin.com/in/jeremy-ramirez-galeotti-0611ba20b/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>&nbsp; &nbsp;
   <code><a href="https://www.instagram.com/jererami21/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
 
 
 <div align="center">
-<h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">  Jeremy Ramirez| 💻 Front-end Developer | Guayaquil,EC  <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
+<h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Front-end Developer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
 </div>
 
 - 👀 I’m interested in Web Development.
