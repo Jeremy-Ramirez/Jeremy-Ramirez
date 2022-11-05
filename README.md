@@ -25,7 +25,9 @@
     <li>Html <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></li>
     <li>Css <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></li>
     <li>Javascript <img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></li>
-    <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /></li>
+    <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+    <li>React <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg" alt="react-js" width="25" height="25" />
+    </li>
    </ul>
    </li>
   <li>🖱️ I have also knowledge on:
@@ -38,8 +40,8 @@
   
   <li>Languages: 
      <ul>
-    <li>Spanish : Native</li>
-    <li>English: B2 Level</li>
+    <li>Spanish: Native</li>
+    <li>English: C2 Proficient</li>
     <li>Italian: Medium</li> 
    </ul>
 </li>
