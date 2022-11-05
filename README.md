@@ -15,6 +15,8 @@
 <h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Front-end Developer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Ramirez&theme=radical)
+
 <div align="left">
  <h2>About Me</h2>
  <ul>
