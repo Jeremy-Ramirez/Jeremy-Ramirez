@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Front-end Developer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
+<h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Computer Science Engineer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeremy-Ramirez&theme=radical)
@@ -20,8 +20,8 @@
 <div align="left">
  <h2>About Me</h2>
  <ul>
-  <li>👀 I’m interested in Web Development.</li>
-  <li>🌱 I’m studying Computer Science Engineering at ESPOL 🐢.</li>
+  <li>🌱 I’m a Computer Science Engineer 🐢.</li>
+    <li>👀 I’m interested in Web Development.</li>
   <li>💻 I'm currently learning Web Development Technologies like:
    <ul>
     <li>Html <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></li>
