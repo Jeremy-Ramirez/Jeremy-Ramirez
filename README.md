@@ -44,7 +44,7 @@
      <ul>
     <li>Spanish: Native</li>
     <li>English: C2 Proficient</li>
-    <li>Italian: Medium</li> 
+    <li>Italian: C2 Proficient</li> 
    </ul>
 </li>
    
