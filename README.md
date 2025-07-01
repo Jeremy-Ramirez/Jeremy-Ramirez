@@ -1,59 +1,91 @@
+# 👨‍💻 Jeremy Alexander Ramírez Galeotti
 
-<div align="center">
- <h1>Hi, I’m <a href="#">Jeremy</a> ! 💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
+**Computer Science Engineer | Full Stack Developer**  
+Odense, Denmark | 🇪🇨 🇮🇹  
+📧 jeremyramirezgaleotti@gmail.com | 📞 +45 5014 8536  
+[LinkedIn](https://www.linkedin.com/in/jeremy-ramirezg/) • [GitHub](https://github.com/Jeremy-Ramirez)
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/jeremy-ramirez-galeotti-0611ba20b/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>&nbsp; &nbsp;
-  <code><a href="https://www.instagram.com/jererami21/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
+---
 
+## 💡 About Me
 
+Full Stack Developer with 3+ years of experience building scalable web applications, automation tools, and data-driven platforms. I specialize in modern web technologies, cloud-native solutions, and system automation using tools like Next.js, FastAPI, Prefect, and Docker. I'm passionate about solving real-world problems with clean, maintainable code and delivering value through well-architected systems.
 
-<div align="center">
-<h3> <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100">&nbsp; Jeremy Ramirez| 💻 Computer Science Engineer | Guayaquil,EC &nbsp; <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="100"></h3>
-</div>
+Currently pursuing a Master's in Software Engineering at **Syddansk Universitet (SDU)** and open to remote opportunities in full stack development and system automation.
 
+---
 
-<div align="left">
- <h2>About Me</h2>
- <ul>
-  <li>🌱 I’m a Computer Science Engineer 🐢.</li>
-    <li>👀 I’m interested in Web Development.</li>
-  <li>💻 I'm currently learning Web Development Technologies like:
-   <ul>
-    <li>Html <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></li>
-    <li>Css <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></li>
-    <li>Javascript <img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></li>
-    <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-    <li>React <img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg" alt="react-js" width="25" height="25" />
-    </li>
-   </ul>
-   </li>
-  <li>🖱️ I have also knowledge on:
-   <ul>
-    <li>Mysql <img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></li>
-    <li>MongoDB <img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></li>
-    <li>Java <img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></li> 
-   </ul>
-  </li>
-  
-  <li>Languages: 
-     <ul>
-    <li>Spanish: Native</li>
-    <li>English: C2 Proficient</li>
-    <li>Italian: C2 Proficient</li> 
-   </ul>
-</li>
-   
- </ul>
- 
+## 🛠️ Tech Stack
 
- 
- </div>
-  
-     
+**Languages**: TypeScript, JavaScript, Python, Java  
+**Frameworks**: React.js, Next.js, Node.js, FastAPI, Express, NestJS, Django, SQLAlchemy  
+**Databases**: MySQL, PostgreSQL, MongoDB, Redis, Exasol  
+**DevOps & Tools**: Docker, Git, AWS, Selenium, Pandera, Prefect 2.0/3.0, Cypress, Jest  
+**Other**: Figma, Jira, Azure DevOps, Confluence, TailwindCSS, Handlebars
+
+---
+
+## 💼 Work Experience
+
+### 🔹 Telconet LATAM (2023–2025)  
+**Software Specialist**  
+- 🚀 Developed an ETL system (Prefect + Python + Exasol) improving efficiency by 30%.  
+- 📊 Built a KPI dashboard (Next.js + FastAPI + Redis) cutting report time from 2h to 10m.  
+- 🧾 Automated eCard generation (Node.js + Handlebars), reducing manual tasks by 80%.  
+- 🕷️ Automated Tableau report downloads with Selenium + Prefect.  
+- 🧪 Integrated data validation pipelines (Pandera + PostgreSQL).  
+- Agile Scrum workflows, version control with Git + GitLab.
+
+### 🔹 Laboratorios ASIMED (2023)  
+**Software Developer**  
+- 🏥 Developed a web platform for medical reports using Hasura + GraphQL.  
+- 🔐 Implemented authentication and role-based access with FusionAuth.
+
+### 🔹 Hangaroa (2020–2021)  
+**Software Developer**  
+- 💼 Built a job portal using Angular + Django + MySQL for 100+ monthly users.
+
+---
+
+## 🚀 Projects
+
+### 🐾 Responsible Pet Adoption Platform  
+Capstone Project | ESPOL  
+- Developed a full-stack solution to manage pet adoption process.  
+- Stack: React.js, React Native, Django REST Framework, MySQL  
+- Served 1000+ users.
+
+### 🤖 Teaching Robotics to Children  
+- Taught LEGO Mindstorms robotics to underprivileged children as part of a university social innovation program.
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Computer Science Engineering – ABET & EUR-ACE Certified**  
+- 🧪 **FastAPI** (Platzi)  
+- ☁️ **Kubernetes** (iCloudSeven)  
+- 🧠 **JavaScript, React, Node, TypeScript, Testing** (Udemy)  
+- 🧾 **CCNA Introduction to Networks** (Cisco)  
+- 🇬🇧 **IELTS Academic – CEFR C1 / EFSET C2**
+
+---
+
+## 🌍 Languages
+
+- Spanish 🇪🇸 (Native)  
+- Italian 🇮🇹 (Native)  
+- English 🇬🇧 (Advanced - CEFR C1)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+Feel free to reach out for collaboration or if you're hiring!  
+📫 **jeremyramirezgaleotti@gmail.com**
+
  
 
 
