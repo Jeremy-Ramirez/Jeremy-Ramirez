@@ -31,7 +31,7 @@ Currently pursuing a Master's in Software Engineering at **Syddansk Universitet 
 
 ## 💼 Work Experience
 
-### 🔹 Telconet LATAM (2023–Present)  
+### 🔹 Telconet LATAM (2023–2025)  
 **Software Specialist**  
 Led architecture & design of a KPI management platform that improved data retrieval speed by 40 % and scaled to >3 TB/month of traffic using Python (FastAPI), NextJS, Redis, Docker, AWS EC2, PostgreSQL, Exasol.
 Implemented web scrapping for downloading Tableau reports, streamlining process and reducing manual intervention by 90% using Python, Selenium, Prefect 2.0.
@@ -39,20 +39,20 @@ Mentored a team of 3 junior developers, introducing code review checklists and T
 Integrated SonarQube into the CI pipeline, reducing security vulnerabilities by 70 % within the first release cycle. 
 
 
-### 🔹 Laboratorios ASIMED (2021-2023)  
+### 🔹 Laboratorios ASIMED (2022-2023)  
 **Software Developer**  
 Developed a medical report management web app using GraphQL, Hasura, Sveltekit, Fastify and hexagonal architecture, decreasing report generation time by 50 %. 
 Integrated the Meta Conversions API SDK to stream server-side conversion events, boosting marketing-attribution accuracy by 25 % while remaining compliant with privacy constraints.
 Introduced module‑based architecture and CI/CD with GitHub Actions & Docker, enabling weekly production deployments. 
 Guided interns on best practices for API design and React component testing.
 
-### 🔹 Schlumberger (2020–2021)  
+### 🔹 Schlumberger (2021–2022)  
 **Reservoir Performance Intern (Software)**  
 
 Automated data extraction pipelines with Python & Pandas, reducing manual entry errors by 25 %. 
 
 
-### 🔹 Hangaroa (2019–2020)  
+### 🔹 Hangaroa (2020–2021)  
 **Software Developer**  
 - 💼 Built a job‑matching portal (Angular, Django, MySQL) serving 100+ monthly users; optimised queries to cut load times by 30 %. Implemented RBAC and OAuth2 security
 
