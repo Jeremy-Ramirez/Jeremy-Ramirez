@@ -9,7 +9,7 @@ Odense, Denmark | 🇪🇨 🇮🇹
 
 ## 💡 About Me
 
-Senior Software Engineer with 5+ years of experience architecting and delivering scalable platform features and developer‑facing SDKs for data‑intensive web applications. Expert in Python (FastAPI, Django & Flask) and TypeScript/JavaScript (Node.js, React.js, NextJS), with a strong background in software design patterns, test‑driven development, and secure coding practices (SonarQube). Proven leader in mentoring junior engineers, performing rigorous code reviews, and driving CI/CD & DevOps initiatives that raise code quality and deployment velocity. Adept at coordinating cross‑functional teams to ship high‑impact enhancements, resolve escalated customer issues, and maintain cloud environments.
+Senior Software Engineer with 4+ years of experience architecting and delivering scalable platform features and developer‑facing SDKs for data‑intensive web applications. Expert in Python (FastAPI, Django & Flask) and TypeScript/JavaScript (Node.js, React.js, NextJS), with a strong background in software design patterns, test‑driven development, and secure coding practices (SonarQube). Proven leader in mentoring junior engineers, performing rigorous code reviews, and driving CI/CD & DevOps initiatives that raise code quality and deployment velocity. Adept at coordinating cross‑functional teams to ship high‑impact enhancements, resolve escalated customer issues, and maintain cloud environments.
 
 Currently pursuing a Master's in Software Engineering at **Syddansk Universitet (SDU)** and open to remote opportunities in full stack development and system automation.
 
